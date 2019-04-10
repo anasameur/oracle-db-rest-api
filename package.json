@@ -1,0 +1,23 @@
+{
+  "name": "oracle-db-rest-api",
+  "version": "1.0.0",
+  "description": "Creating a REST API with Node.js and Oracle Database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasameur/oracle-db-rest-api.git"
+  },
+  "author": "Ameur anas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasameur/oracle-db-rest-api/issues"
+  },
+  "homepage": "https://github.com/anasameur/oracle-db-rest-api#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
